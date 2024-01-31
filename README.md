@@ -1,2 +1,2 @@
 # remoterepo
-Antti_Karvonen testailee Git-versionhallintaa!
+Antti testailee Git-versionhallintaa!
